@@ -1,2 +1,2 @@
 # BIMaster_DM
-Trabalhos de Data Mining
+Repositório para os trabalhos da disciplina de Data Mining do curso PUC BI Master
